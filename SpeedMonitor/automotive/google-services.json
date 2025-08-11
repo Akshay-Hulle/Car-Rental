@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206493474771",
+    "project_id": "car-rental-489e3",
+    "storage_bucket": "car-rental-489e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206493474771:android:d2607f1a54ab862eac1926",
+        "android_client_info": {
+          "package_name": "com.carrental.speedmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsAO_AICjede7xyJy8YIAQI-S6pYJ-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
